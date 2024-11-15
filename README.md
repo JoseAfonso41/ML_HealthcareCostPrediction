@@ -1,6 +1,6 @@
 # ML_HealthcareCostPrediction
 
-FreeCodeCamp Course Challenge
+# FreeCodeCamp Course Challenge
 
 
 In this challenge, you will predict healthcare costs using a regression algorithm.
